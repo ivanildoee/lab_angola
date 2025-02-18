@@ -597,7 +597,7 @@ end
 
 Editar o ficheiro
 ```
-sudo vim /etc/ipsec.conf
+sudo nano /etc/ipsec.conf
 ```
 
 Copiar a configuração
@@ -625,7 +625,7 @@ conn VPN
 
 Editar ficheiro ipsec.secrets
 ```
-sudo vim /etc/ipsec.secrets
+sudo nano /etc/ipsec.secrets
 ```
 
 ```
