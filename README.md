@@ -611,7 +611,7 @@ conn VPN
   aggressive = yes
 
   right = 192.168.122.2
-  rightsubnet = 0.0.0.0/0
+  rightsubnet = 172.16.0.0/12
   rightauth = psk
 
   left = %defaultroute 
